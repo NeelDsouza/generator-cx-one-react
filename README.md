@@ -1,0 +1,1 @@
+# generator-cx-one-react
